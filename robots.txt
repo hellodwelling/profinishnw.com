@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://profinishnw.com/sitemap.xml
